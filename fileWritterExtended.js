@@ -3,7 +3,7 @@ const fs = require('fs').promises;
 const ENCODING = 'utf-8';
 const IDS_FILE = 'ids.txt';
 const CODS_FILE = 'cods.txt';
-const EXIT_FILE = 'NOR-2019_desativar_garantias.sql';
+const EXIT_FILE = 'saida.sql';
 
 const queryFormatter = (id, cod) => {
     return `${id} ${cod}`;
