@@ -55,9 +55,9 @@ saida.sql – Cada linha do arquivo é copiada diretamente (ou modificada via qu
 
 Exemplo de saída:
 
-123
-456
-789
+123 <br>
+456 <br>
+789 <br>
 
 - **Como usar:**
 
