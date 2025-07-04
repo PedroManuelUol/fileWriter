@@ -41,14 +41,15 @@ node fileWritterExtended.js
 
 ⚠️ Os arquivos ids.txt e cods.txt devem ter o mesmo número de linhas. Caso contrário, o script emitirá um erro.
 
-2. index.js
+### 2. index.js <br>
+
 Processa um único arquivo de entrada: entrada.txt.
 
-Entrada:
+- **Entrada:** 
 
 entrada.txt – Lista de itens, um por linha
 
-Saída:
+- **Saída:**  
 
 saida.sql – Cada linha do arquivo é copiada diretamente (ou modificada via queryFormatter, se desejado)
 
