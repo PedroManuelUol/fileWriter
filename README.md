@@ -29,12 +29,12 @@ Processa dois arquivos: `ids.txt` e `cods.txt`, combinando as linhas corresponde
   - `saida.sql` – Cada linha contém um par `ID COD`, separado por espaço
 
 - **Exemplo de saída:**
-123 ABC
-456 DEF
-789 GHI
+123 ABC <br>
+456 DEF <br>
+789 GHI <br>
   
 - **Como usar:**
-- 
+
 ```bash
 node fileWritterExtended.js
 ```
