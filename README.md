@@ -59,9 +59,14 @@ Exemplo de saída:
 456
 789
 
+- **Como usar:**
+
+```bash
 node index.js
+```
 
 ✅ Pré-requisitos
+
 Node.js (versão 12 ou superior)
 
 Os arquivos de entrada devem estar no mesmo diretório dos scripts
